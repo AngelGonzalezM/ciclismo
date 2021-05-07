@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+
+#Titulo {
+	color: #f08000;
+	font: 50px "Open sans";
+	margin-bottom: 30px;
+	position: relative;
+	z-index: 2;
+	border-bottom: 6px solid #914a0d;
+	font-weight: bold;
+	margin-right: 100px;
+	margin-left: 100px;
+	text-align: center;
+}
+
+.Subtitulo {
+	color: #f08000;
+	font: 30px "Open sans";
+	margin-right: 130px;
+	margin-left: 130px;
+	text-align: center;
+	border-bottom: 2px solid #914a0d;
+}
+
+p {
+ 	margin: 10px 0;
+  	text-align: justify;
+  	line-height: 150%;
+  	margin-right: 130px;
+  	margin-left: 130px;
+	line-height: 100%;
+}
+
+#tabla {
+	color: blue;
+	margin-right: 130px;
+  	margin-left: 130px;
+}
+
+#video {
+	margin-right: 130px;
+  	margin-left: 130px;
+}
